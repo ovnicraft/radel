@@ -27,3 +27,6 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 10.0
+[submodule "odooec"]
+	path = odooec
+	url = git@github.com:ovnicraft/odooec.git
