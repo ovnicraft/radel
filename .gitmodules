@@ -33,3 +33,8 @@
 [submodule "cybro"]
 	path = cybro
 	url = git@github.com:ovnicraft/cybro.git
+
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 10.0
