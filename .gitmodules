@@ -38,3 +38,8 @@
 	path = OCA/stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
 	branch = 10.0
+
+[submodule "SerpentCS/serpentcs"]
+	path = SerpentCS/serpentcs
+	url = git@github.com:JayVora-SerpentCS/SerpentCS_Contributions.git
+	branch = 10.0
