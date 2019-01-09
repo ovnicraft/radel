@@ -43,3 +43,8 @@
 	path = SerpentCS/serpentcs
 	url = git@github.com:JayVora-SerpentCS/SerpentCS_Contributions.git
 	branch = 10.0
+
+[submodule "OCA/account-payment"]
+	path = OCA/account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 10.0
