@@ -48,3 +48,13 @@
 	path = OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 10.0
+
+[submodule "ovnicraft/bank-payment"]
+	path = ovnicraft/bank-payment
+	url = git@github.com:ovnicraft/bank-payment.git
+	branch = 10.0
+
+[submodule "OCA/manufacture"]
+	path = OCA/manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 10.0
