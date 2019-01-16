@@ -58,3 +58,13 @@
 	path = OCA/manufacture
 	url = git@github.com:OCA/manufacture.git
 	branch = 10.0
+
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 10.0
+
+[submodule "OCA/purchase-workflow"]
+	path = OCA/purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 10.0
