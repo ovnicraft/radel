@@ -68,3 +68,6 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 10.0
+[submodule "hrms"]
+	path = hrms
+	url = git@github.com:ovnicraft/hrms.git
