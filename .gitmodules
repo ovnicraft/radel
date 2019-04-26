@@ -71,3 +71,8 @@
 [submodule "hrms"]
 	path = hrms
 	url = git@github.com:ovnicraft/hrms.git
+
+[submodule "oskr1087/StockMoveCancel"]
+	path = oskr1087/StockMoveCancel
+	url = git@github.com:oskr1087/StockMoveCancel.git
+	branch = 10.0
