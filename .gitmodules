@@ -81,3 +81,8 @@
 	path = ovnicraft/product-attribute
 	url = git@github.com:ovnicraft/product-attribute.git
 	branch = 10.0
+
+[submodule "OCA/queue"]
+	path = OCA/queue
+	url = git@github.com:OCA/queue.git
+	branch = 10.0
