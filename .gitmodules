@@ -93,3 +93,8 @@
 	path = prisehub/l10n-ec
 	url = git@github.com:prisehub/l10n-ec.git
 	branch = 10.0
+
+[submodule "prisehub/radel"]
+	path = prisehub/radel
+	url = git@github.com:prisehub/radel.git
+	branch = 10.0
